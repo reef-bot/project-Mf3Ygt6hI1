@@ -1,0 +1,1 @@
+This is the README file for the moderation discord bot project. It contains information about the project, its features, and how to use it.
